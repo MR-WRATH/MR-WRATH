@@ -26,12 +26,12 @@ ${\normalsize\color{#38568d}\textbf{𝗠𝘆 𝗦𝗽𝗮𝗺𝘁𝗲𝗻𝗻�
 
 <p align="left">
 
-  <a href="https://atabook.org"><img src="Без названия247_20260812152004.png" width="100" style="vertical-align: middle;" /></a> 
+  <a href="https://atabook.org"><img src="Без названия247_20260812152004.png" width="60" style="vertical-align: middle;" /></a> 
   
   <span style="margin: 0 40px; vertical-align: middle;">${\huge\color{#202b33}\textbf{಄}}$</span>
   
 
-  <a href="https://straw.page"><img src="Без названия247_20260812151933.png" width="110" style="vertical-align: middle;" /></a>
+  <a href="https://straw.page"><img src="Без названия247_20260812151933.png" width="70" style="vertical-align: middle;" /></a>
 </p>
 
 

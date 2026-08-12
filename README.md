@@ -7,7 +7,7 @@ ${\normalsize\color{#38568d}\textbf{𝗠𝘆 𝗦𝗽𝗮𝗺𝘁𝗲𝗻𝗻�
 <p align="left"><a href="https://mrwrath.atabook.org/"><img src="Без названия247_20260812152004.png" hspace="60" width="100" align="left" /p> ${\huge\color{#202b33}\textbf{಄}}$ 
 <p align="left"><a href="https://mrwrath.straw.page/"><img src="Без названия247_20260812151933.png" hspace="60" width="110" align="left" />
 
-
+<br>
 
 <p align="left">
   <a href="https://mrwrath.atabook.org/">

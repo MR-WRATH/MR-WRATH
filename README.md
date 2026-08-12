@@ -4,7 +4,7 @@ ${\huge\color{#38818d}\textbf{𝗖+𝗛+𝗜 𝗘𝗡𝗖}}{\huge\color{#202b33}
 ${\normalsize\color{#386c8d}\textbf{𝗦𝗽𝗮𝗺 𝗙𝗼𝗹𝗹𝗼𝘄 𝗔𝗰𝗰}}$ <br>
 ${\normalsize\color{#38568d}\textbf{𝗠𝘆 𝗦𝗽𝗮𝗺𝘁𝗲𝗻𝗻𝗮 𝗧𝗵𝗲𝗺𝗲𝗱 𝗠𝗮𝗶𝗻 }}$ <a href="https://github.com/PESKYMAILMAN">✉︎‬</a>‬ <br>
 
-<p align="left"><a href="https://mrwrath.atabook.org/"><img src="Без названия247_20260812152004.png" hspace="60" width="100" align="left" /> 
+<p align="left"><a href="https://mrwrath.atabook.org/"><img src="Без названия247_20260812152004.png" hspace="60" width="100" align="left" //> 
 ${\huge\color{#202b33}\textbf{಄}}$ 
 <p align="left"><a href="https://mrwrath.straw.page/"><img src="Без названия247_20260812151933.png" hspace="60" width="110" align="left" />
 

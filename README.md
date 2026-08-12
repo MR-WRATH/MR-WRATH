@@ -12,23 +12,17 @@ ${\normalsize\color{#38568d}\textbf{𝗠𝘆 𝗦𝗽𝗮𝗺𝘁𝗲𝗻𝗻�
 
 
 
-<table border="0" cellpadding="0" cellspacing="0">
-  <tr style="border: none;">
-    <td valign="middle" style="border: none;">
-      <a href="https://atabook.org">
-        <img src="Без названия247_20260812152004.png" width="100" />
-      </a>
-    </td>
-    <td valign="middle" style="border: none; padding: 0 40px;">
-      ${\huge\color{#202b33}\textbf{಄}}$
-    </td>
-    <td valign="middle" style="border: none;">
-      <a href="https://straw.page">
-        <img src="Без названия247_20260812151933.png" width="110" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="left">
+
+  <a href="https://atabook.org"><img src="Без названия247_20260812152004.png" width="100" align="left" /></a>
+
+
+  <span style="display: inline-block; margin-left: -50px; margin-top: 35px;">${\huge\color{#202b33}\textbf{಄}}$</span>
+
+
+  <br>
+  <a href="https://straw.page"><img src="Без названия247_20260812151933.png" width="110" style="margin-left: 40px;" /></a>
+</p>
 
 
 

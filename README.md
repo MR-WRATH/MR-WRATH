@@ -11,7 +11,7 @@ ${\normalsize\color{#38568d}\textbf{𝗠𝘆 𝗦𝗽𝗮𝗺𝘁𝗲𝗻𝗻�
 
 <p align="left">
   <a href="https://mrwrath.atabook.org/">
-    <img src="Без названия247_20260812152004.png" hspace="60" width="100" align="left" alt="Atabook" />
+    <img src="Без названия247_20260812152004.png" hspace="60" width="50" align="left" alt="Atabook" />
   </a> 
   ${\huge\color{#202b33}\textbf{಄}}$
 </p>
@@ -19,10 +19,11 @@ ${\normalsize\color{#38568d}\textbf{𝗠𝘆 𝗦𝗽𝗮𝗺𝘁𝗲𝗻𝗻�
 
 <p align="left">
   <a href="https://mrwrath.straw.page/">
-    <img src="Без названия247_20260812151933.png" hspace="60" width="110" align="left" alt="Straw" />
+    <img src="Без названия247_20260812151933.png" hspace="60" width="60" align="left" alt="Straw" />
   </a>
 </p>
 
+<br>
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">

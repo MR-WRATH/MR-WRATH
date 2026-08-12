@@ -22,6 +22,21 @@ ${\normalsize\color{#38568d}\textbf{𝗠𝘆 𝗦𝗽𝗮𝗺𝘁𝗲𝗻𝗻�
 
 <br>
 
+
+
+<p align="left">
+
+  <a href="https://atabook.org"><img src="Без названия247_20260812152004.png" width="100" style="vertical-align: middle;" /></a> 
+  
+  <span style="margin: 0 40px; vertical-align: middle;">${\huge\color{#202b33}\textbf{಄}}$</span>
+  
+
+  <a href="https://straw.page"><img src="Без названия247_20260812151933.png" width="110" style="vertical-align: middle;" /></a>
+</p>
+
+
+
+<br>
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31577y2qu5bnsuxiohla755yhpuy&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=0400ff&bar_color_cover=false">

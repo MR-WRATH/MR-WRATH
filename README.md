@@ -32,7 +32,9 @@ ${\normalsize\color{#38568d}\textbf{𝗠𝘆 𝗦𝗽𝗮𝗺𝘁𝗲𝗻𝗻�
 
 
 <br clear="left">
+
 <br><br><br><br><br>
+
 ${\tiny\color{#202b33}\textbf{So sorry if I followed you on my other spam follow acc}}$ <br>
 ${\tiny\color{#202b33}\textbf{I can't log in so feel free to block it}}$ <br>
 ${\tiny\color{#202b33}\textbf{@LovingRed btw}}$ <br>

@@ -14,5 +14,5 @@ ${\normalsize\color{#38568d}\textbf{𝗠𝘆 𝗦𝗽𝗮𝗺𝘁𝗲𝗻𝗻�
 
 <br clear="left">
 
-
+Без названия247_20260812151933.png
 #38568d

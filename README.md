@@ -29,6 +29,8 @@ ${\normalsize\color{#38568d}\textbf{𝗠𝘆 𝗦𝗽𝗮𝗺𝘁𝗲𝗻𝗻�
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31577y2qu5bnsuxiohla755yhpuy&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=0400ff&bar_color_cover=false">
   </a>
 </p>
+<br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Silkscreen&duration=400&pause=850&color=38818D&vCenter=true&width=435&lines=%22HELLO%2C%22;%22LINE%2C%22;%22PAINT%2C%22;%22COLOUR%2C%22;%22DESIGN%2C%22;%22A+DRESS%2C%22;%22BRIGHT-%22;%22NESS.%22;%22HELLO%2C%22;%22LINE%2C%22;%22PAINT%2C%22;%22COLOUR%2C%22;%22DESIGN%2C%22;%22A+DRESS%2C%22;%22ID-%22;%22EA.%22" alt="Typing SVG" /></a>
 
 
 <br clear="left">
